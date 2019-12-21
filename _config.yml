@@ -31,13 +31,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: LGCANE
-subtitle: Your awesome subtitle
+subtitle: 엘지팡이
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the demo site for a Jekyll theme version of
-  HTML5 UP's sleek, responsive site template Prologue.
+  LED + GPS를 탑재한 지팡이 입니다.
 author: 김장민
 email: kimjangmin@kakao.com
-avatar: assets/images/avatar.jpg
+avatar: assets/images/icon2.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/LGCANE.blog" # the subpath of your site, e.g. /blog
@@ -50,7 +49,7 @@ facebook_url:
 googleplus_url:
 instagram_url:
 linkedin_url:
-github_url:
+github_url: https://github.com/jangminkim
 pinterest_url:
 slack_url:
 dribbble_url:
